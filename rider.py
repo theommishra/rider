@@ -6,7 +6,7 @@ client = commands.Bot(command_prefix='!')
 client = discord.Client()
 @client.event
 async def on_ready():
-    print("Tyaiyar haiiiiii")
+    print("Tyaiyar haiiiiiiiiiiiiiiiiiiiiiii")
 
 @client.event
 async def on_message(message):
