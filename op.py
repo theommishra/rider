@@ -19,4 +19,4 @@ async def on_message(message):
         await user.add_roles(discord.utils.get(user.guild.roles, name=role))
 
 
-client.run("NzM1MTg3NTMwMTYwNDA2NjU4.XxcsZw.5own1S9zEvSWUo4aWlPuThub7Wo")
+client.run("API ID")
